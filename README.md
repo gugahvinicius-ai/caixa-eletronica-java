@@ -40,5 +40,7 @@ O algoritmo realiza os saques utilizando sempre as maiores notas disponíveis, v
 Caso o valor solicitado não possa ser atendido:
 ```text
 Saque não realizado por falta de cédulas.
+```
+## Interface do Sistema
+<img width="1279" height="719" alt="WhatsApp Image 2026-05-06 at 16 19 49" src="https://github.com/user-attachments/assets/51133cac-cb5a-493a-83c0-6494c61e3e5d" />
 
-<img width="1279" height="719" alt="WhatsApp Image 2026-05-06 at 16 19 49" src="https://github.com/user-attachments/assets/1786bbbd-567b-4de5-be42-429093b4e01e" />
